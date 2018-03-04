@@ -5,6 +5,9 @@
 Print formatted Ceph usage per crush root. The user running
 this tool, should have the Ceph permissions to run the command
 'ceph osd df'.
+
+Richard Arends (richard@unixguru.nl)
+4 March 2018
 """
 
 import json
